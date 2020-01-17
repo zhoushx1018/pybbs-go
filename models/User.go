@@ -4,7 +4,7 @@ import (
   "time"
   "github.com/astaxie/beego/orm"
   "strconv"
-  "pybbs-go/utils"
+  "github.com/zhoushx1018/pybbs-go/utils"
 )
 
 type User struct {

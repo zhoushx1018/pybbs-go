@@ -6,7 +6,7 @@ import (
   "testing"
   "runtime"
   "path/filepath"
-  _ "pybbs-go/routers"
+  _ "github.com/zhoushx1018/pybbs-go/routers"
 
   "github.com/astaxie/beego"
 )

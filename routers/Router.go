@@ -1,9 +1,9 @@
 package routers
 
 import (
-  "pybbs-go/controllers"
+  "github.com/zhoushx1018/pybbs-go/controllers"
   "github.com/astaxie/beego"
-  "pybbs-go/filters"
+  "github.com/zhoushx1018/pybbs-go/filters"
 )
 
 func init() {

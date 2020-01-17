@@ -5,8 +5,8 @@ import (
   "github.com/xeonx/timeago"
   "github.com/russross/blackfriday"
   "github.com/astaxie/beego"
-  "pybbs-go/models"
-  "pybbs-go/utils"
+  "github.com/zhoushx1018/pybbs-go/models"
+  "github.com/zhoushx1018/pybbs-go/utils"
 )
 
 func FormatTime(time time.Time) string {
